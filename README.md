@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I’m **Wai Kit**, a Software Engineering student from Malaysia.  
+I’m **Wai Kit (OvHvO)**, a Software Engineering student from Malaysia.  
 I design, build, and experiment with whatever sparks my curiosity — desktop systems, full-stack apps, data analysis projects, and occasionally some weird ideas that turn into real projects.  
 If an idea pops into my head, chances are I'll build it and ship it. 🚀
 

@@ -38,17 +38,6 @@ If an idea pops into my head, chances are I'll build it and ship it. 🚀
 
 ---
 
-## 🧩 About Me
-
-- 🎓 Year 2 Software Engineering student @ APU  
-- 📈 GPA: **3.86**  
-- 💼 Internship period: **Jan – Apr 2026**  
-- 🧪 I love building modular systems & full-stack apps  
-- 📊 I also enjoy data analysis and models in **R**  
-- 🧘‍♂️ Fun fact: I somehow manage studies + part-time work without going insane  
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -72,14 +61,7 @@ If an idea pops into my head, chances are I'll build it and ship it. 🚀
 ---
 
 ## 🌍 Languages I Speak
-- 🇨🇳 Mandarin — Fluent  
-- 🇬🇧 English — Fluent  
-- 🇲🇾 Malay — Intermediate  
+- Mandarin
+- English
 
----
-
-## 🤝 Connect with Me!
-
-📧 **Email:** waikitpua05@gmail.com  
-🔗 **GitHub:** https://github.com/OvHvO  
 

@@ -38,26 +38,6 @@ If an idea pops into my head, chances are I'll build it and ship it. 🚀
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
- 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=OvHvO&theme=radical)  
-
-</div>
-
----
-
-## 🔥 GitHub Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OvHvO&theme=redical)
-
-</div>
-
----
-
 ## 🎉 Fun Facts About Me
 
 - ❌ I don’t like tea  

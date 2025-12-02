@@ -60,8 +60,11 @@ If an idea pops into my head, chances are I'll build it and ship it. 🚀
 
 ---
 
-## 🌍 Languages I Speak
-- Mandarin
-- English
+## 🎉 Fun Facts About Me
+
+- ❌ I don’t like tea  
+- 🐧 I **love Linux** 
+- ☠️ *One Piece* is my favorite anime — **Pirate King vibes**  
+- 🎸 My hobbies include **Badminton**, **Playing Guitar**, and **Building things** 
 
 

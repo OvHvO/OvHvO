@@ -42,9 +42,9 @@ If an idea pops into my head, chances are I'll build it and ship it. 🚀
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=OvHvO&show_icons=true&theme=radical)  
+![Stats](https://github-readme-stats.vercel.app/api?username=OvHvO&show_icons=true&theme=radical&cache_seconds=86400) 
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=OvHvO&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OvHvO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OvHvO&layout=compact&theme=radical&cache_seconds=86400&hide_border=true)
 
 </div>
 
